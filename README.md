@@ -5,7 +5,12 @@ Literally just using this project as a test run to see what I can do with git hu
 
 <body>
 
-<script type="test/javascript"> 
+<?php 
+
+echo 
+
+?>
+<script> 
 
 var = 1;
 
